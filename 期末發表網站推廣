@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- 引入 Bootstrap 的 CSS 檔案 -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <title>繪畫專題期末發表宣傳</title>
+    <style>
+        body {
+            background-color: #f8f9fa;
+            color: #495057;
+        }
+
+        header {
+            background-color: #007bff;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+
+        section {
+            padding: 20px;
+        }
+
+        footer {
+            background-color: #007bff;
+            color: white;
+            padding: 10px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>繪畫專題期末發表宣傳</h1>
+        <p>你覺得這是什麼？ 進學部美術系 四年級 繪畫專題期末發表</p>
+    </header>
+
+    <section>
+        <h2>簡介</h2>
+        <p>我們實驗了一個「創作遊戲」，由三位藝術家和一位紀錄者組成，由紀錄者出題，藝術家開始創作，兩天後輪到下一位藝術家，只能看上一位的作品，想像對方想傳達的意思，總共進行兩週。紀錄者則負責出題以及負責作為中間人給上一個藝術家的作品。</p>
+        <p>繪畫在再現事物時，必然會經過藝術家本人的轉譯。轉譯後與源事物所產生的差別，可能原因也五花八門；而資訊的傳播也是如此。此展覽旨在透過藝術家的創作接龍，將這個現象直接呈現出來。</p>
+        <p>邀請各位參與。</p>
+    </section>
+
+    <section>
+        <h2>地點與時間</h2>
+        <p>地點：美術系館二樓&三樓</p>
+        <p>時間：12/19（二）～12/23（六） 9:00～21：00</p>
+    </section>
+
+    <footer>
+        <p>歡迎參加！</p>
+    </footer>
+
+    <!-- 引入 Bootstrap 的 JavaScript 檔案（需要在 body 結束標籤之前引入）-->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
